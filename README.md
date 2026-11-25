@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [Deploy on MindPal](https://mindpal.space/deploy-on-mindpal) - Try any public skill in the browser, then share it as an AI tool people open from a link, without Claude or an AI subscription
 
 ### Inspiration & Use Cases
 
